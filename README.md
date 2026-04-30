@@ -1,7 +1,8 @@
 # Aaditya K S
 
-Computer Engineering student at Thapathali Campus, IOE, TU — currently in my final year
-and genuinely obsessed with AI/ML. I build things to understand them, not just to list them.
+Computer Engineering student at Thapathali Campus, IOE, TU.
+Genuinely obsessed with AI/ML — I build things to understand them, not just to list them.
+Interested in applying machine learning to real problems, especially in healthcare and civic tech.
 
 ---
 
@@ -9,10 +10,12 @@ and genuinely obsessed with AI/ML. I build things to understand them, not just t
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fruit Freshness Detector](https://github.com/aadityaKS1/ML-practice) | Real-time fresh vs rotten detection using a two-stage pipeline — YOLOv8 for detection (mAP 92.3%) and MobileNetV3 for classification (92% acc.). Built as my minor project at IOE. | Python, YOLOv8, PyTorch, Django, React |
-| [Image Steganography](https://github.com/aadityaKS1) | Hide secret messages inside images, encrypted with AES before embedding. You need the right password to get anything out. | Python, AES, Pillow |
-| [ML Practice](https://github.com/aadityaKS1/ML-practice) | Hands-on implementations — logistic regression, neural networks, ML math. Learning by building, not just reading. | Python, Jupyter |
-| [DSA](https://github.com/aadityaKS1/DSA) | Grinding LeetCode problems in C++. Slow progress, but real progress. | C++ |
+| [Fruit Freshness Detector](https://github.com/aadityaKS1/ML-practice) | Real-time fresh vs rotten detection — YOLOv8 (mAP 92.3%) + MobileNetV3 (92% acc.). Minor project at IOE. | Python, YOLOv8, PyTorch, Django, React |
+| [Breast Cancer Predictor](https://github.com/aadityaKS1) | Predicts benign vs malignant tumors using Random Forest on the WBC dataset. Full-stack with real-time predictions. | Python, Scikit-learn, FastAPI, React, Tailwind |
+| [Punarnirman — Civic Tech](https://github.com/aadityaKS1) | Hackathon project (Team Leader) — digital platform to coordinate and track public infrastructure reconstruction in Nepal. | React, Django, SQLite, Scikit-learn |
+| [Image Steganography](https://github.com/aadityaKS1) | Hide AES-encrypted messages inside images. Password-protected — wrong password gets you nothing. | Python, AES, Pillow |
+| [ML Practice](https://github.com/aadityaKS1/ML-practice) | Logistic regression, neural networks, ML math from scratch. Learning by building, not just reading. | Python, Jupyter |
+| [DSA](https://github.com/aadityaKS1/DSA) | Grinding LeetCode in C++. Slow progress, but real progress. | C++ |
 
 ---
 
@@ -20,18 +23,30 @@ and genuinely obsessed with AI/ML. I build things to understand them, not just t
 
 **Languages:** `Python` `C++` `JavaScript`
 
-**AI / ML / DL:** `TensorFlow` `PyTorch` `YOLOv8` `MobileNetV3` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib`
+**AI / ML / DL:** `TensorFlow` `PyTorch` `YOLOv8` `MobileNetV3` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Jupyter`
 
-**Web:** `React` `Django` `HTML` `CSS`
+**Web:** `React` `Django` `FastAPI` `Tailwind CSS` `HTML` `CSS`
 
-**Tools:** `Git` `GitHub` `VS Code` `Google Colab` `Jupyter`
+**Database:** `SQLite` `SQL` `MySQL`
+
+**Tools:** `Git` `GitHub` `VS Code` `Google Colab`
+
+---
+
+## Beyond Code
+
+- Led **Team Tech Ninjas** at a week-long Rotaract hackathon — built a civic-tech solution for Nepal's infrastructure reconstruction problem
+- Participated in **Debractor 6.0** international debate competition with teams from Nepal and Sri Lanka
+- Competed in **CODECODE** competitive programming at Technorion 5.0
+- Participated in a **Design Thinking Challenge** in Butwal
+- Completed **Introduction to SQL** — Simplilearn
 
 ---
 
 ## Right Now
 
 - Actively looking for an AI/ML internship in Kathmandu where I can contribute and learn from real engineers
-- Grinding DSA on [LeetCode](https://leetcode.com/u/practice_aaditya/) — not because I have to, because I want to get better
+- Grinding DSA on [LeetCode](https://leetcode.com/u/practice_aaditya/)
 - Diving deeper into Computer Vision and exploring what comes after YOLOv8
 
 ---
