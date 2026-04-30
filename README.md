@@ -14,7 +14,7 @@ Interested in applying machine learning to real problems, especially in healthca
 | [Breast Cancer Predictor](https://github.com/aadityaKS1/Breast-Cancer-Detection) | Predicts benign vs malignant tumors using Random Forest on the WBC dataset. Full-stack with real-time predictions. | Python, Scikit-learn, FastAPI, React, Tailwind |
 | [Punarnirman - Civic Tech](https://github.com/aadityaKS1/Hackathon-project) | Hackathon project (Team Leader) - digital platform to coordinate and track public infrastructure reconstruction in Nepal. | React, Django, SQLite, Scikit-learn |
 | [Image Steganography](https://github.com/aadityaKS1/StegoHide) | Hide AES-encrypted messages inside images. Password-protected - wrong password gets you nothing. | Python, AES, Pillow |
-
+| [Rotaract Club of Kathmandu Website](https://github.com/aadityaKS1/rackathmandu) | Built the club website from scratch - frontend and backend - after joining and realizing there wasn't one. Real need, real solution. | Python, React |
 ---
 
 ## What I Actually Know
