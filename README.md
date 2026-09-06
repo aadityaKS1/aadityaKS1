@@ -1,59 +1,113 @@
-# Aaditya K S
+# Aaditya K. Singh
 
-Computer Engineering student at Thapathali Campus, IOE, TU.
-Genuinely obsessed with AI/ML - I build things to understand them, not just to list them.
-Interested in applying machine learning to real problems, especially in healthcare and civic tech.
+### Computer Engineering Student | AI/ML | Backend Development | GenAI
+
+Computer Engineering student at **Thapathali Campus, IOE, TU**, focused on building practical AI/ML systems and understanding how they work under the hood.
+
+I learn by building — from computer vision and classical machine learning to **LLMs, RAG systems, and backend applications**.
+
+Interested in applying AI to real-world problems, particularly in **healthcare, civic technology, and intelligent software systems**.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fruit Freshness Detector](https://github.com/aadityaKS1/Freshness-Detection-Computer_Vision-) | Real-time fresh vs rotten detection - YOLOv8 (mAP 92.3%) + MobileNetV3 (92% acc.). Minor project at IOE. | Python, YOLOv8, PyTorch, Django, React |
-| [Breast Cancer Predictor](https://github.com/aadityaKS1/Breast-Cancer-Detection) | Predicts benign vs malignant tumors using Random Forest on the WBC dataset. Full-stack with real-time predictions. | Python, Scikit-learn, FastAPI, React, Tailwind |
-| [Punarnirman - Civic Tech](https://github.com/aadityaKS1/Hackathon-project) | Hackathon project (Team Leader) - digital platform to coordinate and track public infrastructure reconstruction in Nepal. | React, Django, SQLite, Scikit-learn |
-| [Image Steganography](https://github.com/aadityaKS1/StegoHide) | Hide AES-encrypted messages inside images. Password-protected - wrong password gets you nothing. | Python, AES, Pillow |
-| [Rotaract Club of Kathmandu Website](https://github.com/aadityaKS1/rackathmandu) | Built the club website from scratch - frontend and backend - after joining and realizing there wasn't one. Real need, real solution. | Python, React |
----
-
-## What I Actually Know
-
-**Languages:** `Python` `C++` `JavaScript`
-
-**AI / ML / DL:** `TensorFlow` `PyTorch` `YOLOv8` `MobileNetV3` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Jupyter`
-
-**Web:** `React` `Django` `FastAPI` `Tailwind CSS` `HTML` `CSS`
-
-**Database:** `SQLite` `SQL` `MySQL`
-
-**Tools:** `Git` `GitHub` `VS Code` `Google Colab`
+| [RAG-Based Fault Diagnosis Assistant](#) | Research project exploring RAG for automated root-cause analysis in microservices by comparing vector and vectorless retrieval approaches using the RCAEval benchmark. | Python, LangChain, FAISS, Sentence Transformers, Ollama, Llama |
+| [Fruit Freshness Detector](https://github.com/aadityaKS1/Freshness-Detection-Computer_Vision-) | Real-time fresh vs. rotten fruit and vegetable detection using a two-stage YOLOv8 + MobileNetV3 pipeline. Achieved 92.3% mAP for detection and 92% classification accuracy. | Python, YOLOv8, PyTorch, Django, React |
+| [Breast Cancer Predictor](https://github.com/aadityaKS1/Breast-Cancer-Detection) | Machine learning system for benign vs. malignant tumor prediction using Random Forest on the WBC dataset, deployed as a full-stack application. | Python, Scikit-learn, FastAPI, React, Tailwind |
+| [Punarnirman – Civic Tech](https://github.com/aadityaKS1/Hackathon-project) | Led a 4-person team to build a platform for coordinating and tracking public infrastructure reconstruction during a one-week hackathon. | React, Django, SQLite, Scikit-learn |
+| [Image Steganography](https://github.com/aadityaKS1/StegoHide) | Secure image steganography application that encrypts messages with AES before hiding them inside images using LSB-based techniques. | Python, AES, Pillow |
+| [Rotaract Club of Kathmandu Website](https://github.com/aadityaKS1/rackathmandu) | Designed and developed a website for the Rotaract Club of Kathmandu to provide a centralized online presence for club activities and information. | React, Django, Python |
 
 ---
 
-## Beyond Code
+## 🧠 What I Work With
 
-- Led **Team Tech Ninjas** at a week-long Rotaract hackathon — built a civic-tech solution for Nepal's infrastructure reconstruction problem
-- Participated in **Debractor 6.0** international debate competition with teams from Nepal and Sri Lanka
-- Competed in **CODECODE** competitive programming at Technorion 5.0
-- Participated in a **Design Thinking Challenge** in Butwal
-- Completed **Introduction to SQL** — Simplilearn
+### AI / Machine Learning
+`Python` `Scikit-learn` `TensorFlow` `PyTorch` `YOLOv8` `MobileNetV3` `OpenCV`
+
+### Generative AI
+`RAG` `LangChain` `FAISS` `Sentence Transformers` `Ollama` `LLMs`
+
+### Data
+`NumPy` `Pandas` `Matplotlib` `Jupyter` `Data Analysis` `Feature Engineering`
+
+### Backend & Web
+`Django` `FastAPI` `React` `Tailwind CSS` `REST APIs`
+
+### Databases
+`PostgreSQL` `MySQL` `SQLite` `SQL`
+
+### Tools
+`Git` `GitHub` `VS Code` `Google Colab`
+
+### Languages
+`Python` `C++` `JavaScript`
 
 ---
 
-## Right Now
+## 💼 Experience
 
-- Actively looking for an AI/ML internship in Kathmandu where I can contribute and learn from real engineers
-- Grinding DSA on [LeetCode](https://leetcode.com/u/practice_aaditya/)
-- Diving deeper into Computer Vision and exploring what comes after YOLOv8
+### Engineering Intern – Data Science & Analytics
+**CodingAtom · Aug 2026**
+
+Worked on a data science project using UK STATS19 road collision data, including:
+
+- Data cleaning and preprocessing
+- Statistical analysis
+- Data visualization
+- Road safety pattern analysis
+- Interactive Streamlit dashboard development
 
 ---
 
-## Connect
+## 🏆 Leadership & Activities
+
+- **Team Leader – Rotaract Hackathon, Team Tech Ninjas**
+  - Led a 4-person team during a one-week hackathon.
+  - Managed task delegation, technical decisions, and project delivery.
+
+- **Chair – Club Administration, Rotaract Club of Kathmandu**
+  - Coordinated club administration, communication, logistics, and reporting.
+  - Worked with the executive team to plan and execute club initiatives.
+
+- Participant – **Debractor 6.0 International Debate Competition**
+- Participant – **CODECODE Competitive Programming, Technorion 5.0**
+- Participant – **Design Thinking Challenge, Butwal**
+
+---
+
+## 📚 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- LLM application development
+- LangChain & agentic AI
+- Machine learning system design
+- Computer Vision
+- Data Structures & Algorithms
+- Backend development with FastAPI
+
+---
+
+## 🎯 Looking For
+
+I am currently looking for a **paid AI/ML, Data Science, GenAI, or Backend internship in Kathmandu** where I can:
+
+- Work on real-world engineering problems
+- Learn from experienced developers and ML engineers
+- Contribute to production-oriented projects
+- Strengthen my understanding of AI/ML systems
+
+---
+
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityaks1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aadityaKS1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/practice_aaditya/)
 
 ---
 
-*"Code. Learn. Build. Repeat."*
+> **Code. Learn. Build. Repeat.**
