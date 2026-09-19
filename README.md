@@ -12,7 +12,7 @@ Interested in applying AI to real-world problems, particularly in **healthcare, 
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
+ Project | Description | Tech 
 |---|---|---|
 | [RAG-Based Fault Diagnosis Assistant](#) | Research project exploring RAG for automated root-cause analysis in microservices by comparing vector and vectorless retrieval approaches using the RCAEval benchmark. | Python, LangChain, FAISS, Sentence Transformers, Ollama, Llama |
 | [Fruit Freshness Detector](https://github.com/aadityaKS1/Freshness-Detection-Computer_Vision-) | Real-time fresh vs. rotten fruit and vegetable detection using a two-stage YOLOv8 + MobileNetV3 pipeline. Achieved 92.3% mAP for detection and 92% classification accuracy. | Python, YOLOv8, PyTorch, Django, React |
